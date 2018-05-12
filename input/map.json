@@ -1,0 +1,85 @@
+{
+	"id": "1",
+	"mapversion": "1",
+	"classname": "worldspawn",
+	"skyname": "sky_day01_01",
+	"maxpropscreenwidth": "-1",
+	"detailvbsp": "detail.vbsp",
+	"detailmaterial": "detail/detailsprites",
+
+	"array": [
+
+		{
+		"id": "2",
+
+		"array": [
+
+			{
+			"id": "1",
+			"plane": "(-64 64 64) (64 64 64) (64 -64 64)",
+			"material": "BRICK/BRICKFLOOR001A",
+			"uaxis": "[1 0 0 -256] 0.25",
+			"vaxis": "[0 -1 0 0] 0.25",
+			"rotation": "0",
+			"lightmapscale": "16",
+			"smoothing_groups": "0"
+		},
+
+		{
+			"id": "2",
+			"plane": "(-64 -64 -64) (64 -64 -64) (64 64 -64)",
+			"material": "BRICK/BRICKFLOOR001A",
+			"uaxis": "[1 0 0 -256] 0.25",
+			"vaxis": "[0 -1 0 0] 0.25",
+			"rotation": "0",
+			"lightmapscale": "16",
+			"smoothing_groups": "0"
+		},
+
+		{
+			"id": "3",
+			"plane": "(-64 64 64) (-64 -64 64) (-64 -64 -64)",
+			"material": "BRICK/BRICKFLOOR001A",
+			"uaxis": "[0 1 0 0] 0.25",
+			"vaxis": "[0 0 -1 256] 0.25",
+			"rotation": "0",
+			"lightmapscale": "16",
+			"smoothing_groups": "0"
+		},
+
+		{
+			"id": "4",
+			"plane": "(64 64 -64) (64 -64 -64) (64 -64 64)",
+			"material": "BRICK/BRICKFLOOR001A",
+			"uaxis": "[0 1 0 0] 0.25",
+			"vaxis": "[0 0 -1 256] 0.25",
+			"rotation": "0",
+			"lightmapscale": "16",
+			"smoothing_groups": "0"
+		},
+
+		{
+			"id": "5",
+			"plane": "(64 64 64) (-64 64 64) (-64 64 -64)",
+			"material": "BRICK/BRICKFLOOR001A",
+			"uaxis": "[1 0 0 -256] 0.25",
+			"vaxis": "[0 0 -1 256] 0.25",
+			"rotation": "0",
+			"lightmapscale": "16",
+			"smoothing_groups": "0"
+		},
+
+		{
+			"id": "6",
+			"plane": "(64 -64 -64) (-64 -64 -64) (-64 -64 64)",
+			"material": "BRICK/BRICKFLOOR001A",
+			"uaxis": "[1 0 0 -256] 0.25",
+			"vaxis": "[0 0 -1 256] 0.25",
+			"rotation": "0",
+			"lightmapscale": "16",
+			"smoothing_groups": "0"
+		}
+		]
+	}
+	]
+}
